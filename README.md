@@ -67,8 +67,7 @@ Obstacle ahead	Rover stops, beeps, turns
 Temperature / humidity	Values shown on dashboard
 
 Camera	Live video visible
-![Dashboard graphs](images/dashboard-graphs.png)
-![Dashboard live readings](images/dashboard-live-readings.png)
+
 ⚠️ Limitations
 MQ sensors are not selective and need warm-up time; readings are approximate, not certified ppm values.
 DHT11 accuracy is limited (about ±2 °C and ±5 % RH).
