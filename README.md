@@ -79,8 +79,7 @@ Longer-range communication
 More accurate, certified gas sensors
 Remote driving of the rover
 AI-based hazard detection
-📄 Documentation
-The full project report is in [`docs/`.](https://docs.google.com/document/d/1o_uY8ymkciPO_Rj7JVLgmSQn-_UYEhEe/edit?usp=drive_link&ouid=110081230152146497675&rtpof=true&sd=true)
+
 👥 Team
 Department of Electrical and Electronics Engineering (EEE), S R University, Second Year
 Name	Roll No.
@@ -91,6 +90,6 @@ Vivek Korivi	2505A21027
 Tharun Bioroju	2505A21028
 Hemanth Marri	2505A21029
 Rohan Gorantala	2505A21030
-Guide / Faculty: add name here
+
 📜 License
 Released under the MIT License.
